@@ -7,7 +7,7 @@
   <img src="https://qwasar.io/wp-content/uploads/2019/07/Qwasar-Logo-07.png" width="200" />
 </p>
 
-## 1_My_Mr_Clean
+## My_Mr_Clean
 The search engine should be simple at first. The user needs to be able to type some words and the engine returns the most relevant articles. We are going to build a simple model for some article from Wikipedia.
 * Get some article from Wikipedia to work with.
 * Extract meaningful and usable content from this article.
